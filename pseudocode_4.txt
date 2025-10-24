@@ -1,0 +1,10 @@
+
+create courses dictionary
+while repeat is yes
+    ask the user for the course ID and assign the response to the ID variable
+    ask the user for the course name and assign the response to the course name variable
+    add the ID and course name into the courses dictionary
+    ask if the user would like to add another course
+
+ask the user which subject they would like to see the courses for
+display the courses for that subject
